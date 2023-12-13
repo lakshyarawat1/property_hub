@@ -1,0 +1,15 @@
+
+
+.heading-one{
+    color:black; font-size: x-large;
+    background-color: rgb(255, 179, 0);
+    padding :10px 0 10px 10px;
+    border-radius: 10px;
+}
+
+.heading-two{
+    color:rgb(160, 152, 38) !important;
+    background-color: black;
+    padding : 12px ; 
+    border-radius: 10px;
+}
